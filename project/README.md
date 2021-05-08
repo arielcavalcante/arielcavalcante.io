@@ -1,4 +1,4 @@
-# Portifa do Ariel 🏳️‍⚧️ [![GitHub]
+# Portifa do Ariel 🔥 [![GitHub]
 
 ## Tecnologias usadas 🛠️
 
@@ -10,4 +10,4 @@
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-simplefolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fe47ccc9-20be-4b88-a8d2-8d8d513d8d12/deploy-status)](https://app.netlify.com/sites/arielcavalcante/deploys)
