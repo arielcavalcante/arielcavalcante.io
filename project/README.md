@@ -1,4 +1,4 @@
-# Portifa do Ariel 🔥 [![GitHub]
+# Portifa do Ariel 🔥 [GitHub]
 
 ## Tecnologias usadas 🛠️
 
